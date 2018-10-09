@@ -2,6 +2,6 @@
   "name": "gatsby-cli",
   "version": "0.0.0",
   "dependencies": {
-    "gatsby": "^2.0.19"
+    "gatsby-cli": "^2.4.3"
   }
 }
