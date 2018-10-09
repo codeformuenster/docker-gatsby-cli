@@ -1,0 +1,7 @@
+{
+  "name": "gatsby-cli",
+  "version": "0.0.0",
+  "dependencies": {
+    "gatsby": "^2.0.19"
+  }
+}
